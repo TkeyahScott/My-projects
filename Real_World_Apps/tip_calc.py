@@ -1,7 +1,7 @@
 #KeyS DevOps
 #27.09.2026
 #version ctrl trial.
-#v1.0
+#v2.0
 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
